@@ -27,7 +27,7 @@
 
 
   <build>
-    <finalName>firstmavenwebapp</finalName>
+    <finalName>ROOT</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
